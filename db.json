@@ -60,33 +60,7 @@
 			"email": "Hayden@althea.biz",
 			"body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
 		}
-	],
-	"albums": [{
-			"userId": 1,
-			"id": 1,
-			"title": "quidem molestiae enim"
-		},
-		{
-			"userId": 1,
-			"id": 2,
-			"title": "sunt qui excepturi placeat culpa"
-		},
-		{
-			"userId": 1,
-			"id": 3,
-			"title": "omnis laborum odio"
-		},
-		{
-			"userId": 1,
-			"id": 4,
-			"title": "non esse culpa molestiae omnis sed optio"
-		},
-		{
-			"userId": 1,
-			"id": 5,
-			"title": "eaque aut omnis a"
-		}
-	],
+	]
 	"photos": [{
 			"albumId": 1,
 			"id": 1,
@@ -143,37 +117,6 @@
 			"username": "Samantha",
 			"email": "Nathan@yesenia.net",
 			"phone": "1-463-123-4447"
-		}
-	],
-	"todos": [{
-			"userId": 1,
-			"id": 1,
-			"title": "delectus aut autem",
-			"completed": false
-		},
-		{
-			"userId": 1,
-			"id": 2,
-			"title": "quis ut nam facilis et officia qui",
-			"completed": false
-		},
-		{
-			"userId": 1,
-			"id": 3,
-			"title": "fugiat veniam minus",
-			"completed": false
-		},
-		{
-			"userId": 1,
-			"id": 4,
-			"title": "et porro tempora",
-			"completed": true
-		},
-		{
-			"userId": 1,
-			"id": 5,
-			"title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-			"completed": false
 		}
 	]
 }
